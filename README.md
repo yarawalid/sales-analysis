@@ -2,7 +2,7 @@
 # Sales Dashboard - Excel
 
 ## Preview
-![Dashboard](Dashboard.png)
+![Dashboard](dashboard_resized.jpg)
 
 ## Tools
 Excel, Pivot Tables, Charts
